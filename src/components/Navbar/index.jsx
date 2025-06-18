@@ -20,27 +20,23 @@ const Navbar = () => {
         <ul className="hidden md:flex items-center justify-end gap-12 w-2/3">
           <li>
             <a href="/" className="hover:underline">
-              Home
+              Our Story
             </a>
           </li>
+          
           <li>
-            <a href="/about" className="hover:underline">
-              About
-            </a>
-          </li>
-          <li>
-            <a href="/" className="hover:underline">
+            <a href="/menu" className="hover:underline">
               Menu
             </a>
           </li>
           <li>
-            <a href="/" className="hover:underline">
-              Booking
+            <a href="/testimonial" className="hover:underline">
+              Testimonial
             </a>
           </li>
           <li>
             <a href="/contact" className="hover:underline">
-              Contact Us
+              Contact
             </a>
           </li>
         </ul>
