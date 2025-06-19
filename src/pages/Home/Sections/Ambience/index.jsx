@@ -2,7 +2,9 @@ import React from 'react'
 
 const AmbienceSection = () => {
   return (
-    <div>AmbienceSection</div>
+    <div>AmbienceSection
+      <div>AmbienceSection</div>
+    </div>
   )
 }
 
